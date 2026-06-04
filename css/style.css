@@ -76,3 +76,22 @@ margin-top:20px;
 font-size:28px;
 color:#00D4FF;
 }
+
+.hero-card{
+    background:#161B22;
+    border-radius:20px;
+    padding:30px;
+    min-height:300px;
+    margin-bottom:20px;
+}
+
+.hero-card h1{
+    color:#00D4FF;
+    margin-bottom:10px;
+}
+
+.bottom-widgets{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:20px;
+}
