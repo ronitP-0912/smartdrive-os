@@ -95,3 +95,10 @@ color:#00D4FF;
     grid-template-columns:1fr 1fr;
     gap:20px;
 }
+.vehicle-image{
+    width:100%;
+    max-width:500px;
+    display:block;
+    margin:auto;
+    border-radius:12px;
+}
