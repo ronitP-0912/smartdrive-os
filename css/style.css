@@ -97,8 +97,8 @@ color:#00D4FF;
     gap:20px;
 }
 .vehicle-image{
-    width:100%;
-    max-width:500px;
+    width:70%;
+    max-width:450px;
     display:block;
     margin:auto;
     border-radius:12px;
