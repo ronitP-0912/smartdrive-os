@@ -112,11 +112,3 @@ color:#00D4FF;
     justify-content:space-around;
     align-items:center;
 }
-
-.bottom-nav button{
-    background:none;
-    border:none;
-    color:white;
-    font-size:32px;
-    cursor:pointer;
-}
