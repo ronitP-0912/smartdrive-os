@@ -59,10 +59,10 @@ padding:0 25px;
 }
 
 .card{
-background:#161B22;
-border-radius:20px;
-padding:25px;
-min-height:180px;
+    background:#161B22;
+    border-radius:20px;
+    padding:25px;
+    min-height:180px;
 }
 
 .card p{
